@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kakao Chat"
+  short_description: "Read or send KakaoTalk chats on macOS or Windows"
+  default_prompt: "Use $kakao-chat to read a KakaoTalk conversation or send a confirmed message on macOS or Windows."
