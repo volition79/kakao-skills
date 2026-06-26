@@ -8,6 +8,12 @@
 
 이 스킬은 카카오톡 공식 API를 사용하지 않습니다. 실행 환경에 따라 macOS 접근성 자동화, Windows Codex Computer Use, Windows PowerShell fallback 경로를 안내합니다.
 
+## 설명 및 시연 영상
+
+이 스킬의 배경과 사용 흐름은 아래 영상에서 확인할 수 있습니다.
+
+- [Record Replay 써봤습니다. 녹화 한 번으로 클로드·코덱스 공용 스킬 만들기 (카카오 스킬 무료 공개)](https://youtu.be/JJiWeK8JTMM)
+
 ## 설치 방법
 
 가장 쉬운 방법은 Codex나 Claude Code 같은 AI에게 이 저장소 주소를 알려주고 설치를 요청하는 것입니다.
